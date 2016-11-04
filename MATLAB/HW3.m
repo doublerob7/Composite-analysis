@@ -1,4 +1,4 @@
-%% ME 4210 - HW5 - Robert Ressler
+%% ME 4210 - HW3 - Robert Ressler
 
 clc
 clear all
