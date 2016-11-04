@@ -8,4 +8,4 @@ Clone this repo and incorporate the functions in MATLAB/functions into your code
 
 # Misc
 
-Course based on *Principles of Composite Material Mechanics, Ronald F. Gibson
+Course based on *Principles of Composite Material Mechanics, Ronald F. Gibson*
